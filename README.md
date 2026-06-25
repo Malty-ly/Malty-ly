@@ -64,7 +64,7 @@
 
 ### 🤝 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Join_My_Server-malty.ly-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.gg/8TA9ftFvSt)
+[![Discord](https://img.shields.io/badge/Join_My_Discord-malty.ly-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/49BfZNFP8v)
 
 ---
 
