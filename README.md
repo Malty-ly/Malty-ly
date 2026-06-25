@@ -64,9 +64,7 @@
 
 ### 🤝 Connect With Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Discord](https://img.shields.io/badge/Join_My_Server-malty.ly-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.gg/8TA9ftFvSt)
 
 ---
 
