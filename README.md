@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Malty-ly 👋
+# Hey, I'm Malty.ly 👋
 
 ### Full Stack Developer | Building Amazing Things
 
